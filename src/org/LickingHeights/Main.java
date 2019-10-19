@@ -35,7 +35,18 @@ public class Main {
         int answer3 = theMax(e,f);
         System.out.println(answer3)
         
-     
+    }
+    
+    public static String theName(String name){
+        return "Hello" + name;
+    }
+    
+    public static int multiply (int a, int b){
+        return a*b;
+    }
+    
+    
+ 
         
         
         
