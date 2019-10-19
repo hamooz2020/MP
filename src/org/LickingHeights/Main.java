@@ -18,22 +18,22 @@ public class Main {
         System.out.println( "Hello " + name);
         
         int a,b;
-        a=10
-        b=15
-            int answer = multiply(a,b)
-            System.out.println(answer)
-            //Answer 2
+        a=10;
+        b=15;
+            int answer = multiply(a,b);
+            System.out.println(answer);
+            
             int c,d;
             e = 1;
             f = 5;
-            double answer2 = divide(c,d)
+            double answer2 = divide(c,d);
                 System.out.println(answer2);
-        //answer3
+        
         int e,f;
         e = 1;
         f = 2;
         int answer3 = theMax(e,f);
-        System.out.println(answer3)
+        System.out.println(answer3);
         
     }
     
@@ -46,7 +46,7 @@ public class Main {
     }
     
     public static double divide (double c, double d){
-        return c/d
+        return c/d;
     }
     
     public static int theMax (int e,int f) {
