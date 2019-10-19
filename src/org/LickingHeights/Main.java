@@ -45,6 +45,15 @@ public class Main {
         return a*b;
     }
     
+    public static double divide (double c, double d){
+        return c/d
+    }
+    
+    public static int theMax (int e,int f) {
+        if (e > f) {
+            return e;
+    }
+    
     
  
         
